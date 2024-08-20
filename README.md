@@ -1,4 +1,4 @@
-#### Stutter Linguistic Assistance Program
+# Stutter Linguistic Assistance Program
 
 •Created an AI based app to assist people with childhood
 onset fluency disorder(Stuttering) which provides
